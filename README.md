@@ -20,7 +20,7 @@
 
  <br>
  <a href="http://swifty.hu/pdf/Lajos_GASPAR_CV.pdf">
-  <img src="images/cv.png" alt="CV"> 
+  <img src=".images/cv.png" alt="CV"> 
  </a>
 
 </div>
@@ -35,8 +35,10 @@
 
 - My stats ...
 <div align="center">
+ 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Swiftyhu)](https://git.io/streak-stats)
 ![Swiftyhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swiftyhu&show_icons=true&theme=transparent)
+
 </div>
 
 <!--
