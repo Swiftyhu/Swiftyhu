@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div id="badges" style="display: block; text-align: center; margin: 20px auto">
+<div id="badges" align="center" style="display: block; text-align: center; margin: 20px auto">
  Social Media:
  <br>
  <a href="https://www.linkedin.com/in/swiftyhu">
@@ -28,7 +28,6 @@
  <a href="http://swifty.hu/pdf/Lajos_GASPAR_CV.pdf">
   <img src=".images/cv.png" style="height: 48px; width: 48px; background-color: white" alt="CV"> 
  </a>
-
 </div>
 
 - 📫 How to reach me: ...
@@ -41,7 +40,7 @@
   </a>
 
 - My stats ...
-<div style="display: block; text-align: center; margin: 20px auto">
+<div align="center" style="display: block; text-align: center; margin: 20px auto">
 
 ![Swiftyhu's GitHub Streak][streak]
 ![Swiftyhu's GitHub Stats][stats]
