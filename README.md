@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div id="badges" style="text-align: center">
+<div id="badges" style="display: block; text-align: center; margin: 20px auto">
  Social Media:
  <br>
  <a href="https://www.linkedin.com/in/swiftyhu">
@@ -41,7 +41,7 @@
   </a>
 
 - My stats ...
-<div style="text-align:center">
+<div style="display: block; text-align: center; margin: 20px auto">
 
 ![Swiftyhu's GitHub Streak][streak]
 ![Swiftyhu's GitHub Stats][stats]
