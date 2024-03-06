@@ -9,15 +9,17 @@
  <a href="https://www.instagram.com/swifty.hu/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
  </a>
-
  <br>
+ <br>
+
  Software / Hardware
  <br>
  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MAC OS"/>
  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-
  <br>
+ <br>
+
  Personal
  <br>
  <a href="https://swifty.hu/">
