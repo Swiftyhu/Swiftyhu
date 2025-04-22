@@ -1,46 +1,41 @@
-### Hi there 👋
+### 👋 Hi there
 
-<div id="badges" align="center" style="display: block; text-align: center; margin: 20px auto">
-  Social Media<br>
- <a href="https://www.linkedin.com/in/swiftyhu">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- </a>
- <a href="https://www.instagram.com/swifty.hu/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
- </a>
+<div id="badges" style="display: block; text-align: center; margin: 20px auto; widht:100%">
+ Social Media<br>
+ <a href="https://www.linkedin.com/in/swiftyhu"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+ <a href="https://www.instagram.com/swifty.hu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
  <br>
  <br>
  Software / Hardware<br>
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
+ <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MAC OS"/>
  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
  <br>
  <br>
  Personal<br>
-  <a href="https://swifty.hu/">
-  <img src="https://img.shields.io/website-up-down-green-red/http/swifty.hu.svg">
- </a>  
+  <a href="https://swifty.hu/"><img src="https://img.shields.io/website-up-down-green-red/http/swifty.hu.svg"></a>  
  <br>
- <a href="http://swifty.hu/pdf/Lajos_GASPAR_CV.pdf">
-  <img src=".images/cv.png" style="height: 48px; width: 48px; background-color: white" alt="CV"> 
- </a>
+ <br>
+ <a href="http://swifty.hu/pdf/Lajos_GASPAR_CV.pdf"><img src=".images/cv.png" style="height: 48px; width: 48px; background-color: transparent" alt="CV"></a>
+ <br>
  <br>
  <a href="https://github.com/glsys-eu"><img src="https://badgen.net/badge/icon/GLSYS.EU?icon=github&label"></a>
  <a href="https://github.com/swiftyhu"><img src="https://badgen.net/badge/icon/Swiftyhu?icon=github&label"></a>
 </div>
 
-- 📫 How to reach me...<br><br>
+### 📫 How to reach me...<br><br>
 
   - mainly through e-mail: swifty@swifty.hu<br><br>
 
-- 🔭 I currently work at...<br><br>
+### 🔭 I currently work at...<br><br>
 
-  - sevDesk <a href="https://sevdesk.de"><img src=".images/sevdesk.png" style="height: 32px; background-color: white; vertical-align: bottom" alt="sevDesk"></a>
-  
-  - my own company, <a href="https://glsys.eu"><img src="https://avatars.githubusercontent.com/u/161305522?s=400&u=8ea61770b81b5aa95f94a008d5ff22f757e60dc5&v=4" style="height: 48px; vertical-align: middle" alt="GLSYS"></a>
+<table style="margin-left: 30px">
+<tr><td><a href="https://data-ng.com"><img src=".images/data-ng.png" style="height: 32px; background-color: gray; vertical-align: middle" alt="DATA-NG"></a></td><td><a href="https://data-ng.com">DATA-NG GmbH</a> as a DevOps/Platform engineer/consultant,</td></tr>
+<tr><td><a href="https://glsys.eu"><img src=".images/glsys.png" style="height: 32px; background-color: gray; vertical-align: middle" alt="GLSYS"></a></td><td><a href="https://glsys.eu">GLSYS Kft.</a> as a CEO. (My own company).</td></tr>
+</table>
 
-- 🌱 My stats...
-<div align="center" style="display: block; text-align: center; margin: 20px auto">
+### 🌱 My stats...
+<div style="display: block; text-align: center; margin: 20px auto; width:100%">
 
 ![Swiftyhu's GitHub Streak][streak]
 ![Swiftyhu's GitHub Stats][stats]
