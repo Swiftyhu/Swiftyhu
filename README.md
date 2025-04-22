@@ -39,6 +39,7 @@
 
 ![Swiftyhu's GitHub Streak][streak]
 ![Swiftyhu's GitHub Stats][stats]
+![Swiftyhu's Top Languages][top_languages]
 
 </div>
 
@@ -62,9 +63,10 @@ https://dev.to/envoy_/150-badges-for-github-pnk
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 
+[streak]: https://github-readme-streak-stats.herokuapp.com?user=Swiftyhu
+
 -->
 
-
-
-[streak]: https://github-readme-streak-stats.herokuapp.com?user=Swiftyhu
-[stats]: https://github-readme-stats.vercel.app/api?username=Swiftyhu&show_icons=true&theme=transparent
+[streak]: https://github-readme-streak-stats.herokuapp.com/?user=Swiftyhu&theme=transparent&hide_border=true
+[stats]: https://github-readme-stats.vercel.app/api?username=Swiftyhu&show_icons=true&theme=transparent&hide_border=true
+[top_languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=Swiftyhu&theme=transparent&show_icons=true&hide_border=true&layout=compact
