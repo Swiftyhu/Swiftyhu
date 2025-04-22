@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-<div id="badges" style="display: block; text-align: center; margin: 20px auto; widht:100%">
+<div id="badges" align="center" style="display: block; text-align: center; margin: 20px auto; widht:100%">
  Social Media<br>
  <a href="https://www.linkedin.com/in/swiftyhu"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
  <a href="https://www.instagram.com/swifty.hu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
@@ -35,7 +35,7 @@
 </table>
 
 ### 🌱 My stats...
-<div style="display: block; text-align: center; margin: 20px auto; width:100%">
+<div align="center" style="display: block; text-align: center; margin: 20px auto; width:100%">
 
 ![Swiftyhu's GitHub Streak][streak]
 ![Swiftyhu's GitHub Stats][stats]
